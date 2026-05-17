@@ -1,4 +1,9 @@
 
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
 # 📊 End2End-Loan-Default-Data-Analysis (Snowflake + PowerBI Project)
 
 ## Project Overview
@@ -117,14 +122,26 @@ END
 
 ### Key Insights
 
-- The analysis reveals several important findings regarding student depression and its contributing factors.
-- The overall depression rate is approximately 50 percent, indicating a significant prevalence of mental health challenges among students.
-- Academic pressure is identified as the most influential factor affecting depression. As academic pressure increases, depression levels rise significantly, particularly among students with unhealthy lifestyle habits.
-- Financial stress is the second most impactful factor, with higher levels of financial burden associated with increased depression rates.
-- Dietary habits also play a meaningful role. Students with healthier diets tend to experience lower levels of depression, while those with unhealthy dietary patterns show higher depression rates.
-- Sleep duration has a moderate influence on mental health. Students who sleep more than eight hours tend to have lower depression levels, while other sleep groups show relatively similar patterns.
-- Gender-based analysis indicates that depression is slightly higher among male students; however, the difference between genders is not substantial.
-- A key insight from the analysis is that depression is influenced by multiple factors simultaneously. Students experiencing high academic pressure, high financial stress, and unhealthy lifestyle habits are the most vulnerable to depression.
+#### Loan Amount by Purposes
+- Home loans have the highest total loan amount (~6545M), indicating strong demand and larger borrowing amounts in the housing sector.
+- Full-time employees have the highest average income (~82.9K), indicating stronger earning stability.
+- **Unemployed**, followed by **Part-time employees** (~3.01%) borrowers have the highest default rate (~3.39%), indicating greater financial risk. Default rates decrease as employment stability increases.
+- Adults (20 yrs - 40 yrs) have the highest average loan amount (~127.9K), indicating stronger borrowing capacity and higher financing demand. Adults appear to be the primary segment for larger loan financing.
+- 2016 recorded the highest default rate (~11.75%), indicating a slight increase in loan repayment risk during that year. 2014 and 2017 had the lowest default rates (~11.50%).
+
+
+#### Applicant Demographics & Financial Profile
+- Borrowers with Low credit scores have the highest median loan amount (~128.4K). Borrowers with High credit scores have the lowest median loan amount (~127.1K). Higher loan amounts among lower credit score borrowers may indicate increased lending risk exposure.
+- Adult Singles have the highest average loan amount (~128.35K), while Teen Married borrowers show the lowest (~125.69K). Marital status has limited impact on loan amount among high-credit borrowers. High-credit borrowers generally maintain consistent borrowing behavior regardless of demographic group.
+- Borrowers with Medium and High credit scores hold the largest total loan amounts (~4.6bn and ~4.5bn), while borrowers with low credit scores contribute the smallest total loan amount (~1.1bn). Higher loan concentration among medium/high credit borrowers may help reduce overall default exposure.
+- Total loan amounts are nearly identical across all mortgage and dependent categories, ranging from approximately 3.12bn to 3.14bn.
+- Borrowers with a Bachelor’s degree have the highest number of loans (~64.4K). Master’s and PhD borrowers show slightly lower but nearly identical loan counts (~63.5K). Individuals with undergraduate education appear to represent the largest borrowing segment.
+
+#### Financial Risk Metrics
+- Overall, loan amount growth fluctuated significantly across the years, reflecting changing lending trends and market conditions.
+- Overall, default loan changes fluctuated heavily across the years, reflecting unstable credit risk trends.
+- Borrowers with Medium and High credit scores hold the highest YTD loan amounts across all marital statuses. The lending portfolio is concentrated more heavily on borrowers with stronger credit profiles regardless of marital status.
+
 
 ---
 
