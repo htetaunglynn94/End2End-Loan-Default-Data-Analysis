@@ -25,7 +25,7 @@ The analysis explores how factors such as income, employment type, credit score,
 
 ## Dataset Information
 
-**Raw Data**: [Loan Default Dataset.csv](https://raw.githubusercontent.com/htetaunglynn94/udemy/refs/heads/main/da_bootcamp_BtoA/snowflake/Project%201%20Loan%20Data%20Analysis/loan_default_data.csv?token=GHSAT0AAAAAAD4ZYNWVWPDX6PJDYQGY44EW2QLFD7A)
+**Raw Data**: [Loan Default Dataset.csv](https://raw.githubusercontent.com/htetaunglynn94/E2E-Loan-Default-Data-Analysis/refs/heads/main/loan_default_data.csv)
 
 **Dataset Description**
 - The Loan Default dataset contains information about borrowers who have applied for loans, along with details about their financial status, loan characteristics and repayment behavior.
