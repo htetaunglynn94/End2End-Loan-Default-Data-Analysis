@@ -6,7 +6,7 @@ This end-to-end data analysis project focuses on analyzing loan default patterns
 
 The analysis explores how factors such as income, employment type, credit score, debt-to-income ratio (DTI), education level, marital status, and loan purposes influence loan approval trends and default risks. The project also highlights year-over-year lending performance, borrower segmentation, and financial risk metrics to support data-driven lending decisions and portfolio risk management.
 
-**PowerBI Report**: [Loan Default Data Analysis.pbix](https://app.powerbi.com/links/6YQeHhxOYO?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare&bookmarkGuid=ac2fcc75-b6a5-40be-9af3-29b47cb96f2f)
+**PowerBI Report**: [Loan Default Data Analysis.pbix]([https://app.powerbi.com/links/6YQeHhxOYO?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare&bookmarkGuid=ac2fcc75-b6a5-40be-9af3-29b47cb96f2f](https://app.powerbi.com/links/6YQeHhxOYO?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare))
 
 ---
 
